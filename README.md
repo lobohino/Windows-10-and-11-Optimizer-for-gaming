@@ -367,7 +367,25 @@ Gaming Optimizer is optimized for Windows 11, but many options work on Windows 1
 
 ## ⚖️ Disclaimer
 
-These scripts modify system settings. While they are safe, use at your own risk. Creating a restore point before use is recommended.
+**USE AT YOUR OWN RISK.**
+
+These scripts modify Windows system settings, services, registry entries, and remove pre-installed applications. While they have been tested and include rollback options, the author is NOT responsible for any damage, data loss, system instability, or unexpected behavior that may result from using these tools.
+
+**By using these scripts you acknowledge that:**
+- You understand these scripts make system-level changes to Windows
+- You take full responsibility for any changes made to your system
+- You will create a restore point or backup BEFORE running any optimization
+- You have read and understood what each option does before running it
+- The author provides these tools "as-is" without warranty of any kind
+- Results may vary depending on your hardware, Windows version, and configuration
+
+**Recommendations:**
+- ALWAYS create a restore point first (option 1 in the Gaming Optimizer menu)
+- Read the README fully before using any script
+- Test on a non-production machine first if possible
+- Keep your important data backed up regularly
+
+These tools are provided for educational and personal use. Use them at your own discretion and risk.
 
 ---
 
